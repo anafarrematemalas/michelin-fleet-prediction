@@ -1,0 +1,255 @@
+country_name,car_maker_name,car_segment_name,car_type_name,energy,code_age,baseline_total_vehicles,country_iso,body_style,year_stamp,total_vehicles
+Turkey,VOLKSWAGEN,Taigo,Taigo,ESS,Less than 1 year old,3302,tr,SUV,2024,11416
+Turkey,BMW,Serie 5,(G31) Touring,ESS-MHEV,Less than 1 year old,12,tr,BREAK,2024,740
+Turkey,VOLKSWAGEN,Passat,Passat SW 4Motion,ESS,6 to 10 years old,35,tr,BREAK,2024,630
+Turkey,MERCEDES,Classe C,C 180 CGI,ESS,6 to 10 years old,15,tr,BERLINE,2024,3419
+Turkey,BMW,iX3,iX3,ELEC,3 to 5 years old,282,tr,SUV,2024,753
+Turkey,CITROEN,C3,C3 II,ESS,3 to 5 years old,371,tr,BERLINE,2024,1466
+Turkey,FIAT,Qubo,Qubo,ESS,6 to 10 years old,658,tr,MONOSPACE,2024,1402
+Turkey,LAND ROVER,Discovery Sport,Discovery Sport,ESS-MHEV,1 year old,25,tr,4X4,2024,18
+Turkey,SKODA,Kamiq,Kamiq,DIES,3 to 5 years old,525,tr,SUV,2024,1083
+Turkey,VOLKSWAGEN,Golf,Golf VIII,ESS-MHEV,1 year old,441,tr,BERLINE,2024,1916
+Turkey,BMW,Serie 3,(F31) Touring,ESS,11 years and older,368,tr,BREAK,2024,896
+Turkey,RENAULT,Kadjar,Kadjar,DIES,6 to 10 years old,12058,tr,SUV,2024,17252
+Turkey,RENAULT,Clio,Clio IV,DIES,11 years and older,3226,tr,BERLINE,2024,6186
+Turkey,LAND ROVER,Range Rover,Range Rover IV,HYB-DIES,6 to 10 years old,23,tr,4X4,2024,18
+Turkey,RENAULT,Clio,Clio IV,ESS,6 to 10 years old,15661,tr,BERLINE,2024,7281
+Turkey,DACIA,Lodgy,Lodgy,DIES,6 to 10 years old,3986,tr,MONOSPACE,2024,7649
+Turkey,LAND ROVER,Defender,Defender 130,ESS,11 years and older,12,tr,4X4,2024,44
+Turkey,LAND ROVER,Range Rover Sport,Range Rover Sport II,HYB-DIES,3 to 5 years old,149,tr,4X4,2024,96
+Turkey,PEUGEOT,3008,3008,DIES,6 to 10 years old,6298,tr,MONOSPACE,2024,3333
+Turkey,FIAT,Doblo,Doblo Cargo,DIES,6 to 10 years old,9682,tr,UTILITAIRE,2024,67333
+Turkey,DACIA,Logan,Logan MCV,DIES,11 years and older,5143,tr,BREAK,2024,6034
+Turkey,VOLKSWAGEN,Golf,Golf IV Variant,ESS,11 years and older,3084,tr,BREAK,2024,7719
+Turkey,LAND ROVER,Freelander,Freelander,ESS,11 years and older,386,tr,4X4,2024,589
+Turkey,AUDI,A3,A3 Cabriolet,DIES,11 years and older,3509,tr,CABRIOLET,2024,1798
+Turkey,MITSUBISHI,L 200,L 200 4WD,DIES,3 to 5 years old,1359,tr,PICKUP,2024,1231
+Turkey,MERCEDES,Classe B,B 160,ESS,11 years and older,304,tr,MONOSPACE,2024,555
+Turkey,LAND ROVER,Discovery,Discovery III,DIES,11 years and older,1344,tr,4X4,2024,704
+Turkey,FORD,Focus,Focus III,ESS,11 years and older,4416,tr,BERLINE,2024,1705
+Turkey,LAND ROVER,Range Rover,Range Rover IV,DIES,11 years and older,636,tr,4X4,2024,904
+Turkey,DACIA,Sandero,Sandero II Stepway,DIES,6 to 10 years old,3002,tr,BERLINE,2024,3375
+Turkey,VOLKSWAGEN,California,California 4Motion,DIES,6 to 10 years old,307,tr,MOTORHOME,2024,730
+Turkey,VOLKSWAGEN,Passat,Passat CC 4 MOTION,DIES,11 years and older,7622,tr,COUPE,2024,860
+Turkey,SKODA,Fabia,Fabia,DIES,11 years and older,6660,tr,BERLINE,2024,3128
+Turkey,DACIA,Sandero,Sandero,ESS,11 years and older,17069,tr,BERLINE,2024,8081
+Turkey,VOLVO,V40,V40 Cross Country,DIES,11 years and older,1031,tr,BERLINE,2024,587
+Turkey,VOLKSWAGEN,Passat,Passat,ESS,3 to 5 years old,749,tr,BERLINE,2024,4541
+Turkey,PEUGEOT,3008,3008 II,ESS,Less than 1 year old,265,tr,SUV,2024,1710
+Turkey,RENAULT,Clio,Clio,ESS,3 to 5 years old,2,tr,BERLINE,2024,1360
+Turkey,FIAT,Fiorino,Fiorino III Combi,CNG,1 year old,null,tr,UTILITAIRE,2024,2317
+Turkey,HYUNDAI,i30,i30,DIES,2 years old,2050,tr,BERLINE,2024,504
+Turkey,CUPRA,Leon,Leon V,HYB-ESS,Less than 1 year old,81,tr,BERLINE,2024,825
+Turkey,AUDI,Q3,Q3,ESS,Less than 1 year old,540,tr,SUV,2024,991
+Turkey,FIAT,Doblo,Doblo Cargo,DIES,2 years old,947,tr,UTILITAIRE,2024,17149
+Turkey,RENAULT,Clio,Clio IV Estate,ESS,6 to 10 years old,12115,tr,BREAK,2024,3723
+Turkey,AUDI,Q2,Q2,ESS,2 years old,519,tr,SUV,2024,1212
+Turkey,FIAT,Punto,Punto,DIES,11 years and older,9662,tr,BERLINE,2024,17189
+Turkey,SEAT,Leon,Leon III,DIES,11 years and older,1258,tr,BERLINE,2024,1127
+Turkey,DACIA,Logan,Logan MCV,ESS,6 to 10 years old,946,tr,BREAK,2024,1104
+Turkey,MERCEDES,Classe E,E 200,ESS,11 years and older,135,tr,BERLINE,2024,523
+Turkey,SKODA,Scala,Scala,ESS,Less than 1 year old,5228,tr,BERLINE,2024,2233
+Turkey,SKODA,Fabia,Fabia III Combi,ESS,2 years old,2224,tr,BREAK,2024,662
+Turkey,VOLKSWAGEN,Passat,Passat SW,DIES,6 to 10 years old,31751,tr,BREAK,2024,12173
+Turkey,VOLKSWAGEN,Golf,Golf VII,DIES,3 to 5 years old,5725,tr,BERLINE,2024,945
+Turkey,DODGE,Nitro,Nitro (4X4),DIES,11 years and older,557,tr,SUV,2024,556
+Turkey,DACIA,Sandero,Sandero II,DIES,11 years and older,2178,tr,BERLINE,2024,4431
+Turkey,LAND ROVER,Discovery,Discovery V,DIES,6 to 10 years old,1602,tr,4X4,2024,594
+Turkey,HYUNDAI,Tucson,Tucson III 4WD,ESS,6 to 10 years old,726,tr,SUV,2024,1141
+Turkey,FIAT,Bravo,Bravo,DIES,11 years and older,7848,tr,BERLINE,2024,4566
+Turkey,VOLKSWAGEN,California,California Van,DIES,11 years and older,4324,tr,MOTORHOME,2024,3947
+Turkey,BMW,X3,X3 xDrive20i,ESS,6 to 10 years old,361,tr,SUV,2024,1142
+Turkey,LAND ROVER,Discovery,Discovery IV,DIES,6 to 10 years old,1470,tr,4X4,2024,1218
+Turkey,MERCEDES,Classe C,C 200 Break,ESS,11 years and older,593,tr,BREAK,2024,506
+Turkey,HYUNDAI,i30,i30 CW,ESS,11 years and older,4778,tr,BREAK,2024,1339
+Turkey,PEUGEOT,301,301,DIES,6 to 10 years old,2589,tr,BERLINE,2024,58597
+Turkey,SKODA,Superb,Superb,DIES,Less than 1 year old,301,tr,BERLINE,2024,920
+Turkey,DAIHATSU,Terios,Terios,ESS,11 years and older,104,tr,SUV,2024,738
+Turkey,SEAT,Toledo,Toledo IV,ESS,11 years and older,637,tr,BERLINE,2024,707
+Turkey,VOLKSWAGEN,Golf,Golf VIII,ESS,2 years old,1023,tr,BERLINE,2024,515
+Turkey,LAND ROVER,Defender,Defender 110,ESS,11 years and older,12,tr,4X4,2024,44
+Turkey,LAND ROVER,Discovery,Discovery III,DIES,6 to 10 years old,116,tr,4X4,2024,440
+Turkey,JEEP,Grand Cherokee,Grand Cherokee II,DIES,11 years and older,1473,tr,SUV,2024,1362
+Turkey,FORD,Focus,Focus Sedan,DIES,11 years and older,1297,tr,BERLINE,2024,677
+Turkey,HYUNDAI,i20,i20 II,DIES,6 to 10 years old,689,tr,BERLINE,2024,3274
+Turkey,RENAULT,Clio,Clio III,DIES,11 years and older,18689,tr,BERLINE,2024,20536
+Turkey,RENAULT,Laguna,Laguna II,DIES,11 years and older,4848,tr,BERLINE,2024,1441
+Turkey,DACIA,Duster,Duster II 4x4,DIES,3 to 5 years old,11266,tr,SUV,2024,4400
+Turkey,HYUNDAI,i20,i20 II,ESS,3 to 5 years old,4984,tr,BERLINE,2024,4802
+Turkey,FIAT,500,500 L,DIES,6 to 10 years old,2722,tr,MONOSPACE,2024,6164
+Turkey,OPEL,Vectra,Vectra C,DIES,11 years and older,5174,tr,BERLINE,2024,1177
+Turkey,FIAT,Linea,Linea,ESS,6 to 10 years old,131,tr,BERLINE,2024,5642
+Turkey,RENAULT,Symbol,Symbol II (Thalia),ESS,6 to 10 years old,12,tr,BERLINE,2024,3568
+Turkey,LAND ROVER,Freelander,Freelander,DIES,11 years and older,3197,tr,4X4,2024,4685
+Turkey,BMW,X1,X1 xDrive18d,DIES,3 to 5 years old,2611,tr,SUV,2024,773
+Turkey,HYUNDAI,Elantra,Elantra,ESS,11 years and older,2922,tr,BERLINE,2024,5390
+Turkey,AUDI,A5,A5 Sportback,DIES,11 years and older,5190,tr,BERLINE,2024,734
+Turkey,LAND ROVER,Defender,Defender 90,DIES,11 years and older,1369,tr,4X4,2024,28
+Turkey,VOLVO,V40,V40 Cross Country,DIES,6 to 10 years old,1863,tr,BERLINE,2024,1928
+Turkey,SEAT,Ibiza,Ibiza,ESS,11 years and older,28627,tr,BERLINE,2024,4573
+Turkey,SKODA,Fabia,Fabia II Combi,DIES,11 years and older,11431,tr,BREAK,2024,804
+Turkey,BMW,Serie 3,(E91) Touring,ESS,11 years and older,2894,tr,BREAK,2024,592
+Turkey,VOLKSWAGEN,Golf,Golf VI Variant,ESS,11 years and older,12577,tr,BREAK,2024,3972
+Turkey,HYUNDAI,Tucson,Tucson IV,ESS,2 years old,541,tr,SUV,2024,3558
+Turkey,FIAT,Ducato,Ducato (PTAC 3500 Maxi),DIES,3 to 5 years old,688,tr,UTILITAIRE,2024,537
+Turkey,LAND ROVER,Discovery,Discovery IV,DIES,11 years and older,2906,tr,4X4,2024,1104
+Turkey,LAND ROVER,Discovery Sport,Discovery Sport,ESS-MHEV,2 years old,34,tr,4X4,2024,1
+Turkey,FORD,Transit,Transit 2T,DIES,Less than 1 year old,2729,tr,UTILITAIRE,2024,20204
+Turkey,LAND ROVER,Discovery,Discovery II,DIES,11 years and older,461,tr,4X4,2024,580
+Turkey,OPEL,Corsa,Corsa F Electric,ELEC,1 year old,260,tr,BERLINE,2024,1848
+Turkey,CUPRA,Leon,Leon Sportstourer V,HYB-ESS,Less than 1 year old,53,tr,BREAK,2024,825
+Turkey,LAND ROVER,Discovery,Discovery IV,DIES,3 to 5 years old,3,tr,4X4,2024,114
+Turkey,LAND ROVER,Discovery,Discovery V,ESS,Less than 1 year old,13,tr,4X4,2024,185
+Turkey,CITROEN,C3,C3 III,DIES,6 to 10 years old,3789,tr,BERLINE,2024,752
+Turkey,CITROEN,C5 Aircross,C5 Aircross,ESS,1 year old,541,tr,SUV,2024,3544
+Turkey,BMW,Serie 3,(E46) Compact,ESS,11 years and older,1732,tr,BERLINE,2024,535
+Turkey,DACIA,Logan,Logan II,DIES,6 to 10 years old,12558,tr,BERLINE,2024,2847
+Turkey,MERCEDES,Sprinter,Sprinter II 516 CDI 5t,DIES,6 to 10 years old,631,tr,UTILITAIRE,2024,1271
+Turkey,LAND ROVER,Range Rover,Range Rover IV,ESS,6 to 10 years old,212,tr,4X4,2024,473
+Turkey,OPEL,Vectra,Vectra C GTS,DIES,11 years and older,4213,tr,BERLINE,2024,918
+Turkey,LAND ROVER,Discovery,Discovery IV,ESS,11 years and older,64,tr,4X4,2024,23
+Turkey,RENAULT,Megane,Megane II CC,DIES,6 to 10 years old,144,tr,CABRIOLET,2024,4759
+Turkey,AUDI,A3,A3 Sportback,ESS,6 to 10 years old,3498,tr,BERLINE,2024,1432
+Turkey,VOLKSWAGEN,Caddy,Caddy 4Motion,DIES,11 years and older,987,tr,MONOSPACE,2024,4044
+Turkey,RENAULT,Kangoo Express,Kangoo II Express,DIES,6 to 10 years old,6004,tr,UTILITAIRE,2024,15327
+Turkey,LAND ROVER,Freelander,Freelander II,ESS,11 years and older,165,tr,4X4,2024,345
+Turkey,RENAULT,Trafic,Trafic II (Charge Utile:1200Kg),DIES,11 years and older,11220,tr,UTILITAIRE,2024,7958
+Turkey,HYUNDAI,Accent,Accent GS,ESS,11 years and older,70,tr,BERLINE,2024,1424
+Turkey,VOLKSWAGEN,Multivan,Multivan,DIES,6 to 10 years old,1756,tr,UTILITAIRE,2024,2289
+Turkey,OPEL,Vivaro,Vivaro II 2t700,DIES,11 years and older,6106,tr,UTILITAIRE,2024,923
+Turkey,FORD,C-Max,Focus C-Max,DIES,11 years and older,10608,tr,MONOSPACE,2024,4158
+Turkey,LAND ROVER,Range Rover,Range Rover III,DIES,11 years and older,2735,tr,4X4,2024,7214
+Turkey,TOYOTA,Corolla,Corolla,ESS,11 years and older,18356,tr,BERLINE,2024,24544
+Turkey,CITROEN,C3,C3 II,ESS,11 years and older,11475,tr,BERLINE,2024,1337
+Turkey,OPEL,Corsa,Corsa C GSI,ESS,11 years and older,27,tr,BERLINE,2024,3257
+Turkey,MERCEDES,Classe A,A 180,ESS,6 to 10 years old,2397,tr,BERLINE,2024,1735
+Turkey,VOLVO,XC90,XC90,DIES,3 to 5 years old,1857,tr,SUV,2024,1909
+Turkey,LAND ROVER,Discovery,Discovery V,ESS,1 year old,30,tr,4X4,2024,159
+Turkey,LAND ROVER,Discovery,Discovery V,ESS,2 years old,38,tr,4X4,2024,101
+Turkey,DACIA,Sandero,Sandero II Stepway,ESS,2 years old,856,tr,BERLINE,2024,1780
+Turkey,BMW,M2,M2 CS (F87),ESS,3 to 5 years old,30,tr,COUPE,2024,510
+Turkey,BMW,Serie 2,(F23) Cabriolet,ESS,2 years old,15,tr,CABRIOLET,2024,523
+Turkey,IVECO,Daily VI,35C15V,DIES,2 years old,56,tr,UTILITAIRE,2024,933
+Turkey,RENAULT,Megane,Megane III,ESS,1 year old,8,tr,BERLINE,2024,1186
+Turkey,LAND ROVER,Range Rover,Range Rover IV,DIES,2 years old,19,tr,4X4,2024,75
+Turkey,IVECO,Daily VI,35S18V,DIES,1 year old,42,tr,UTILITAIRE,2024,1786
+Turkey,KIA,Picanto,Picanto,ESS,2 years old,1019,tr,BERLINE,2024,2156
+Turkey,LAND ROVER,Range Rover,Range Rover IV P400E,HYB-ESS,6 to 10 years old,16,tr,4X4,2024,38
+Turkey,VOLKSWAGEN,Tiguan,Tiguan,DIES,Less than 1 year old,1067,tr,SUV,2024,1294
+Turkey,HONDA,Civic,Civic,DIES,6 to 10 years old,3176,tr,BERLINE,2024,18896
+Turkey,LAND ROVER,Range Rover,Range Rover IV,ESS,2 years old,10,tr,4X4,2024,218
+Turkey,VOLKSWAGEN,Caddy,Caddy,DIES,Less than 1 year old,1277,tr,MONOSPACE,2024,9404
+Turkey,OPEL,Astra,Astra J GTC,DIES,11 years and older,4105,tr,COUPE,2024,2556
+Turkey,KIA,Rio,Rio,DIES,11 years and older,4788,tr,BERLINE,2024,7837
+Turkey,HYUNDAI,i10,i10,ESS,3 to 5 years old,4911,tr,BERLINE,2024,2247
+Turkey,MERCEDES,Classe C,C 200,ESS-MHEV,3 to 5 years old,193,tr,BERLINE,2024,514
+Turkey,RENAULT,Master,Master III VU,DIES,3 to 5 years old,13389,tr,UTILITAIRE,2024,3334
+Turkey,SKODA,Scala,Scala,ESS,3 to 5 years old,9367,tr,BERLINE,2024,2988
+Turkey,RENAULT,Megane,Megane II,DIES,11 years and older,13456,tr,BERLINE,2024,30309
+Turkey,FIAT,Punto,Punto Evo,LPG,11 years and older,467,tr,BERLINE,2024,2889
+Turkey,HYUNDAI,i20,i20 I,DIES,11 years and older,1763,tr,BERLINE,2024,23560
+Turkey,TOYOTA,Verso,Verso,ESS,11 years and older,3509,tr,MONOSPACE,2024,2006
+Turkey,LAND ROVER,Defender,Defender 90,DIES,6 to 10 years old,232,tr,4X4,2024,4
+Turkey,FIAT,Fiorino,Fiorino III Fourgon,DIES,11 years and older,1068,tr,UTILITAIRE,2024,44757
+Turkey,CITROEN,Berlingo,Berlingo II V.U 625kg,DIES,11 years and older,1539,tr,UTILITAIRE,2024,1580
+Turkey,LAND ROVER,Range Rover,Range Rover III,ESS,6 to 10 years old,78,tr,4X4,2024,170
+Turkey,VOLVO,S40,S40,DIES,11 years and older,7998,tr,BERLINE,2024,8882
+Turkey,LAND ROVER,Defender,Defender 130,DIES,6 to 10 years old,144,tr,4X4,2024,3
+Turkey,VOLKSWAGEN,Golf,Golf VI,ESS,11 years and older,33708,tr,BERLINE,2024,10524
+Turkey,FORD,Fusion,Fusion,ESS,11 years and older,22055,tr,MONOSPACE,2024,4612
+Turkey,LAND ROVER,Defender,Defender 110,DIES,6 to 10 years old,208,tr,4X4,2024,5
+Turkey,LAND ROVER,Defender,Defender 110,DIES,11 years and older,1190,tr,4X4,2024,25
+Turkey,TOYOTA,Auris,Auris,DIES,11 years and older,18290,tr,BERLINE,2024,82143
+Turkey,AUDI,A3,A3 Sportback,DIES,6 to 10 years old,9156,tr,BERLINE,2024,6738
+Turkey,AUDI,A3,A3 Sportback,DIES,11 years and older,29589,tr,BERLINE,2024,3706
+Turkey,LAND ROVER,Defender,Defender 130,DIES,11 years and older,815,tr,4X4,2024,17
+Turkey,MERCEDES,Classe E,E 220 CDI,DIES,11 years and older,10132,tr,BERLINE,2024,1521
+Turkey,FORD,Transit,Transit Kombi,DIES,6 to 10 years old,595,tr,UTILITAIRE,2024,2524
+Turkey,RENAULT,Megane,Megane II Estate,ESS,11 years and older,8259,tr,BREAK,2024,4663
+Turkey,LAND ROVER,Range Rover,Range Rover IV,HYB-DIES,3 to 5 years old,14,tr,4X4,2024,96
+Turkey,VOLKSWAGEN,T-Roc,T-Roc Cabriolet,ESS,1 year old,188,tr,SUV,2024,3976
+Turkey,CITROEN,C3,C3,ESS,1 year old,null,tr,BERLINE,2024,995
+Turkey,OPEL,Corsa,Corsa E,ESS,2 years old,8,tr,BERLINE,2024,3770
+Turkey,FORD,Focus,Focus IV SW,DIES,Less than 1 year old,74,tr,BREAK,2024,2143
+Turkey,PEUGEOT,3008,3008 II,HYB-ESS,2 years old,158,tr,SUV,2024,938
+Turkey,FIAT,500,500 L,ESS,6 to 10 years old,2375,tr,MONOSPACE,2024,1327
+Turkey,AUDI,A3,A3 Sportback,ESS-MHEV,Less than 1 year old,454,tr,BERLINE,2024,640
+Turkey,SKODA,Fabia,Fabia III Combi,ESS,3 to 5 years old,9456,tr,BREAK,2024,790
+Turkey,RENAULT,Zoe,Zoe,ELEC,1 year old,262,tr,BERLINE,2024,776
+Turkey,RENAULT,Captur,Captur,ESS,6 to 10 years old,13027,tr,SUV,2024,4743
+Turkey,LAND ROVER,Discovery Sport,Discovery Sport,ESS-MHEV,3 to 5 years old,81,tr,4X4,2024,19
+Turkey,HONDA,Civic,Civic,HYB-ESS,11 years and older,1355,tr,BERLINE,2024,6872
+Turkey,VOLKSWAGEN,Golf,Golf VII SW GTD,DIES,6 to 10 years old,678,tr,BREAK,2024,954
+Turkey,SEAT,Leon,Leon III SC Cupra,ESS,6 to 10 years old,142,tr,COUPE,2024,2545
+Turkey,RENAULT,Megane,Megane II Berline 4-portes,DIES,6 to 10 years old,151,tr,BERLINE,2024,5761
+Turkey,PEUGEOT,301,301,ESS,3 to 5 years old,494,tr,BERLINE,2024,2110
+Turkey,LAND ROVER,Range Rover Velar,Range Rover Velar,DIES,3 to 5 years old,614,tr,SUV,2024,431
+Turkey,VOLKSWAGEN,Transporter,Transporter (T6),DIES,11 years and older,2463,tr,UTILITAIRE,2024,1831
+Turkey,RENAULT,Modus,Grand Modus,ESS,11 years and older,2565,tr,MONOSPACE,2024,618
+Turkey,SKODA,Octavia,Octavia Combi RS,DIES,6 to 10 years old,2484,tr,BREAK,2024,2136
+Turkey,LAND ROVER,Range Rover Sport,Range Rover Sport,DIES,11 years and older,4172,tr,4X4,2024,1582
+Turkey,PEUGEOT,207,207 SW Outdoor,ESS,11 years and older,3353,tr,BREAK,2024,845
+Turkey,SKODA,Octavia,Octavia RS,ESS,6 to 10 years old,796,tr,BERLINE,2024,695
+Turkey,AUDI,A5,A5 Cabriolet,ESS,6 to 10 years old,158,tr,CABRIOLET,2024,724
+Turkey,LAND ROVER,Range Rover,Range Rover IV,DIES,6 to 10 years old,1948,tr,4X4,2024,1471
+Turkey,LAND ROVER,Discovery,Discovery V,DIES,3 to 5 years old,882,tr,4X4,2024,418
+Turkey,TOYOTA,RAV4,RAV4 III,ESS,11 years and older,7048,tr,4X4,2024,1693
+Turkey,AUDI,A4,A4,DIES,11 years and older,53530,tr,BERLINE,2024,4199
+Turkey,OPEL,Mokka,Mokka 4X4,DIES,6 to 10 years old,1989,tr,SUV,2024,2820
+Turkey,KIA,Sportage,Sportage III,ESS,11 years and older,1786,tr,SUV,2024,3713
+Turkey,DACIA,Dokker,Dokker,DIES,11 years and older,3281,tr,MONOSPACE,2024,2225
+Turkey,SKODA,Yeti,Yeti,ESS,6 to 10 years old,2782,tr,SUV,2024,803
+Turkey,LAND ROVER,Freelander,Freelander II,DIES,11 years and older,4720,tr,4X4,2024,2110
+Turkey,HYUNDAI,Getz,Getz,ESS,11 years and older,12249,tr,BERLINE,2024,56308
+Turkey,LAND ROVER,Range Rover Sport,Range Rover Sport II,HYB-DIES,2 years old,7,tr,4X4,2024,2
+Turkey,LAND ROVER,Range Rover,Range Rover IV,HYB-DIES,2 years old,null,tr,4X4,2024,2
+Turkey,LAND ROVER,Range Rover Velar,Range Rover Velar,DIES,2 years old,19,tr,SUV,2024,91
+Turkey,PEUGEOT,Expert,Expert Utilitaire,DIES,1 year old,34,tr,UTILITAIRE,2024,561
+Turkey,LAND ROVER,Range Rover,Range Rover IV P400E,HYB-ESS,3 to 5 years old,47,tr,4X4,2024,277
+Turkey,LAND ROVER,Range Rover,Range Rover IV P400E,HYB-ESS,2 years old,3,tr,4X4,2024,7
+Turkey,TOYOTA,Corolla,Corolla TS,ESS,11 years and older,282,tr,BERLINE,2024,1818
+Turkey,SKODA,Kamiq,Kamiq,ESS,3 to 5 years old,9210,tr,SUV,2024,6048
+Turkey,HONDA,Jazz,Jazz,ESS,3 to 5 years old,1325,tr,BERLINE,2024,753
+Turkey,SUZUKI,Swift,Swift,ESS,3 to 5 years old,2307,tr,BERLINE,2024,2012
+Turkey,LAND ROVER,Defender,Defender 90,ESS,11 years and older,12,tr,4X4,2024,44
+Turkey,RENAULT,Megane,Megane II Berline 4-portes,ESS,3 to 5 years old,18,tr,BERLINE,2024,3719
+Turkey,SEAT,Leon,Leon III ST Cupra,ESS,6 to 10 years old,497,tr,BREAK,2024,3276
+Turkey,DACIA,Logan,Logan II,DIES,11 years and older,5826,tr,BERLINE,2024,1322
+Turkey,VOLKSWAGEN,T-Roc,T-Roc Cabriolet,ESS,2 years old,129,tr,SUV,2024,1582
+Turkey,MINI,Mini,Mini Cooper Cabrio Sidewalk,ESS,11 years and older,1147,tr,CABRIOLET,2024,656
+Turkey,LAND ROVER,Discovery,Discovery V,ESS,3 to 5 years old,78,tr,4X4,2024,86
+Turkey,VOLKSWAGEN,Passat,Passat Variant,DIES,6 to 10 years old,6438,tr,BREAK,2024,4056
+Turkey,LAND ROVER,Freelander,Freelander II,ESS,6 to 10 years old,44,tr,4X4,2024,1
+Turkey,LAND ROVER,Discovery Sport,Discovery Sport,ESS-MHEV,Less than 1 year old,20,tr,4X4,2024,27
+Turkey,VOLKSWAGEN,Tiguan,Tiguan II 4motion,ESS,6 to 10 years old,706,tr,SUV,2024,873
+Turkey,VOLKSWAGEN,Beetle,Beetle Cabriolet,ESS,6 to 10 years old,742,tr,CABRIOLET,2024,671
+Turkey,VOLKSWAGEN,Transporter,Transporter (T5),DIES,11 years and older,14986,tr,UTILITAIRE,2024,15639
+Turkey,LAND ROVER,Range Rover,Range Rover IV,ESS,3 to 5 years old,122,tr,4X4,2024,1236
+Turkey,BMW,Serie 3,(F30) Berline,ESS,6 to 10 years old,1622,tr,BERLINE,2024,17351
+Turkey,BMW,X6,X6 xDrive 30d,DIES,11 years and older,10037,tr,SUV,2024,1512
+Turkey,SEAT,Altea,Altea XL,DIES,11 years and older,9747,tr,MONOSPACE,2024,663
+Turkey,LAND ROVER,Range Rover Sport,Range Rover Sport,ESS,11 years and older,423,tr,4X4,2024,398
+Turkey,LAND ROVER,Range Rover,Range Rover III,ESS,11 years and older,1024,tr,4X4,2024,1828
+Turkey,NISSAN,Note,Note,ESS,11 years and older,12724,tr,MONOSPACE,2024,1845
+Turkey,LAND ROVER,Range Rover,Range Rover IV,DIES,3 to 5 years old,378,tr,4X4,2024,441
+Turkey,LAND ROVER,Discovery,Discovery IV,ESS,6 to 10 years old,91,tr,4X4,2024,142
+Turkey,NISSAN,Pulsar,Pulsar,DIES,6 to 10 years old,2816,tr,BERLINE,2024,569
+Turkey,PEUGEOT,508,508,DIES,11 years and older,7219,tr,BERLINE,2024,4173
+Turkey,RENAULT,Kangoo Express,Kangoo II Express 4X4,DIES,11 years and older,478,tr,UTILITAIRE,2024,8888
+Turkey,VOLKSWAGEN,Crafter,Crafter Combi 35,DIES,6 to 10 years old,387,tr,UTILITAIRE,2024,1026
+Turkey,MERCEDES,Classe E,E 200d,DIES,3 to 5 years old,159,tr,BERLINE,2024,836
+Turkey,LAND ROVER,Range Rover Sport,Range Rover Sport II,HYB-DIES,6 to 10 years old,485,tr,4X4,2024,18
+Turkey,VOLKSWAGEN,Touareg,Touareg II,DIES,11 years and older,7102,tr,SUV,2024,560
+Turkey,SKODA,Yeti,Yeti 4x4,DIES,6 to 10 years old,3746,tr,SUV,2024,1413
+Turkey,KIA,Cee'd,Cee'd,DIES,11 years and older,10596,tr,BERLINE,2024,5660
+Turkey,VOLKSWAGEN,Passat,Passat Variant,ESS,11 years and older,20419,tr,BREAK,2024,15434
+Turkey,KIA,Venga,Venga,DIES,11 years and older,2240,tr,MONOSPACE,2024,1400
+Turkey,TOYOTA,Hilux,Hilux 4WD,DIES,Less than 1 year old,2215,tr,PICKUP,2024,794
+Turkey,SKODA,Octavia,Octavia,ESS,Less than 1 year old,3455,tr,BERLINE,2024,991
+Turkey,VAUXHALL,Combo,Combo Cargo,DIES,3 to 5 years old,2274,tr,UTILITAIRE,2024,3858
+Turkey,DAIHATSU,Terios,Terios II 4WD,ESS,11 years and older,429,tr,SUV,2024,1729
+Turkey,PEUGEOT,206,206 SW,ESS,11 years and older,6284,tr,BREAK,2024,1439
+Turkey,FIAT,Fiorino,Fiorino III Combi,DIES,11 years and older,1027,tr,UTILITAIRE,2024,44757
+Turkey,MERCEDES,Classe B,B 200 Turbo,ESS,11 years and older,281,tr,MONOSPACE,2024,574
+Turkey,RENAULT,Clio,Clio III GT,ESS,11 years and older,143,tr,BERLINE,2024,1590
+Turkey,MERCEDES,Classe C,C 200 Coupé 4Matic,ESS-MHEV,1 year old,6,tr,COUPE,2024,1921
